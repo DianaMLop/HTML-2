@@ -58,9 +58,3 @@ p{
 .caja p{
     font-size: 25px;
 }
-Miembros{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    background-color: rgb(253, 125, 168);
-}
